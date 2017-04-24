@@ -1,2 +1,2 @@
 # MySharedRes
-共享库
+readme
