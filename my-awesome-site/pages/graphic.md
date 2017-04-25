@@ -5,3 +5,4 @@ title: "计算机图形学"
 permalink: "/graphics/"
 ---
 <!--{% include list-posts.html category='graphics' %}-->
+{% include list-posts.html %}
