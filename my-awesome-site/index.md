@@ -1,6 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+#
+# Use the widgets beneath and the content will be
+# inserted automagically in the webpage. To make
+# this work, you have to use › layout: frontpage
+#
+layout: frontpage
+title: "Milo的ex-Hippocampus"
+header:
+    image_fullwidth: front02.jpg
 ---
